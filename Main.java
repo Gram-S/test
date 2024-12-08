@@ -5,5 +5,6 @@ public class Main {
 
         int y = 7; 
         int x = 2;
+        int z = 1; 
     }
 }
