@@ -11,7 +11,7 @@ public class Main {
         int x = 2;
         int z = 1; 
 
-        system.out.println("feed penguin")
+        system.out.println("feed penguin 2")
     }
 }
 
